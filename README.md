@@ -9,13 +9,13 @@
 
 ## 👥 Our Team
 
-| Role | Name | ID |
-|------|------|----|
-| Group Leader | Ahmad Ali | 25i-0817 |
-| Handwritten Solutions | Liaba Naveed | 25i-0818 |
-| Python Developer | Muhammad Osaid Zahid | 25i-0524 |
+| Role | Name |
+|------|------|
+| Group Leader | Ahmad Ali | 
+| Handwritten Solutions | Liaba Naveed | 
+| Python Developer | Muhammad Osaid Zahid | 
 
-**Submitted To:** Ms. Iqra Arshad, Instructor Multivariable Calculus
+
 
 ---
 
@@ -130,7 +130,7 @@ Average Power    =  482.54 W
 
 ## Who Did What
 
-**Ahmad Ali — Group Leader**
+**Ahmad Ali : Group Leader**
 He led the whole project, formed the complete LaTeX document, built and tested the Python solution, and was part of the brainstorming for how to model the function.
 
 **Liaba Naveed**
