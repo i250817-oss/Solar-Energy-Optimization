@@ -46,7 +46,7 @@ P(G, T, θ) = 0.808·G  −  2.548·T  −  4.9204·θ  +  223.0904
 
 ## The Six Tasks We Solved
 
-### Task 1 — Maximum and Minimum Power
+### Task 1 : Maximum and Minimum Power
 
 Since the model is linear all partial derivatives are constant and never zero. So no interior critical points exist. We checked all 8 corner points of the domain.
 
@@ -57,7 +57,7 @@ Since the model is linear all partial derivatives are constant and never zero. S
 
 ---
 
-### Task 2 — Gradient Vector
+### Task 2 : Gradient Vector
 
 ```
 ∇P  =  ( 0.808,  −2.548,  −4.9204 )
@@ -67,7 +67,7 @@ The angle of incidence has the strongest influence on power because its coeffici
 
 ---
 
-### Task 3 — Steepest Descent
+### Task 3 : Steepest Descent
 
 ```
 −∇P  =  ( −0.808,  2.548,  4.9204 )
@@ -77,7 +77,7 @@ Power drops fastest when irradiance decreases and angle increases. This matches 
 
 ---
 
-### Task 4 — Directional Derivative
+### Task 4 : Directional Derivative
 
 We chose a direction where irradiance drops and angle increases while temperature stays the same.
 
@@ -90,7 +90,7 @@ The negative value means power is decreasing in that direction. This signals a n
 
 ---
 
-### Task 5 — Triple Integral
+### Task 5 : Triple Integral
 
 ```
 Domain:  G in [200, 1000]   T in [15, 45]   θ in [0, 60]
