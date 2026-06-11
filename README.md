@@ -11,11 +11,11 @@
 
 | Role | Name |
 |------|------|
-| Group Leader | Ahmad Ali | 
-| Handwritten Solutions | Liaba Naveed | 
-| Python Developer | Muhammad Osaid Zahid | 
+| Group Leader | Ahmad Ali |
+| Handwritten Solutions | Liaba Naveed |
+| Python Developer | Muhammad Osaid Zahid |
 
-
+**Submitted To:** Ms. Iqra Arshad, Instructor Multivariable Calculus
 
 ---
 
@@ -101,7 +101,7 @@ Average Power    =  482.54 W
 
 ---
 
-### Task 6 — Location Performance
+### Task 6 : Location Performance
 
 | Rank | Location | G W/m2 | T C | θ degrees | Power |
 |------|----------|---------|-----|-----------|-------|
@@ -160,6 +160,14 @@ Solar Energy Optimization
     MVC_Project_Report.pdf      Full LaTeX report 44 pages
     README.md                   This file
 ```
+
+---
+
+## Full Report
+
+To read the complete project report visit:
+
+[Click here to view the full report](https://www.linkedin.com/feed/update/urn:li:activity:7460079977921781760/)
 
 ---
 
